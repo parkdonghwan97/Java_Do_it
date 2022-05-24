@@ -6,8 +6,7 @@ class BirthDay {
 	private int month;
 	private int day;
 	
-	
-	// 
+
 	public int getYear() {
 		return year;
 	}
@@ -26,21 +25,17 @@ class BirthDay {
 		
 		return day;
 	}
-	
-	
+
 	public void setDay(int day) {
 		if(month == 2) {
 			if (day<1 || day>28) {
 				System.out.println("날짜 오류 ");
 			}	
 		}
-		else {
-			
+		else {	
 			this.day = day;
 		}
 	}
-	
-	
 	
 }
 
