@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="sun.java2d.opengl.WGLSurfaceData.WGLVSyncOffScreenSurfaceData"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="classpart.Student"/>
     <fullyQualifiedTypeName name="reference.Subject"/>
+    <fullyQualifiedTypeName name="thisEx.Person"/>
+    <fullyQualifiedTypeName name="sun.java2d.opengl.WGLSurfaceData.WGLVSyncOffScreenSurfaceData"/>
+    <fullyQualifiedTypeName name="staticEx.Sutdent"/>
+    <fullyQualifiedTypeName name="staticEx.Student"/>
 </qualifiedTypeNameHistroy>
