@@ -7,4 +7,7 @@
     <fullyQualifiedTypeName name="sun.java2d.opengl.WGLSurfaceData.WGLVSyncOffScreenSurfaceData"/>
     <fullyQualifiedTypeName name="staticEx.Sutdent"/>
     <fullyQualifiedTypeName name="staticEx.Student"/>
+    <fullyQualifiedTypeName name="singleton.Company"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="array.Book"/>
 </qualifiedTypeNameHistroy>

@@ -14,7 +14,7 @@ public class ArrayTest3 {
 		for(int i=0;i<alpahbets.length;i++) {
 			System.out.println(alpahbets[i]);
 		}
-		// ㄴ> 근데 귀찮아서 String 객체 배열을 사용함 ㅋ
+		// ㄴ> 근데 보통 String 객체 배열을 사용함 ㅋ
 	}
 
 }
