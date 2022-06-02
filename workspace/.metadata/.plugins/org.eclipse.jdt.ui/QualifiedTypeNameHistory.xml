@@ -10,4 +10,19 @@
     <fullyQualifiedTypeName name="singleton.Company"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="array.Book"/>
+    <fullyQualifiedTypeName name="ArrayListTest"/>
+    <fullyQualifiedTypeName name="arraylist.Subject"/>
+    <fullyQualifiedTypeName name="arraylist.Student"/>
+    <fullyQualifiedTypeName name="inheritance.VIPCustomer"/>
+    <fullyQualifiedTypeName name="inheritance.AnimalTest"/>
+    <fullyQualifiedTypeName name="inheritance.Animal"/>
+    <fullyQualifiedTypeName name="inheritance.Customer"/>
+    <fullyQualifiedTypeName name="inheritance.GoldCustomer"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="sun.util.resources.cldr.ext.CurrencyNames_ar_SO"/>
+    <fullyQualifiedTypeName name="witharraylist.VIPCustomer"/>
+    <fullyQualifiedTypeName name="witharraylist.GoldCustomer"/>
+    <fullyQualifiedTypeName name="witharraylist.Customer"/>
+    <fullyQualifiedTypeName name="inheritance.Tiger"/>
+    <fullyQualifiedTypeName name="inheritance.Eagle"/>
 </qualifiedTypeNameHistroy>

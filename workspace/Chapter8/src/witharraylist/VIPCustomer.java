@@ -1,11 +1,17 @@
-package inheritance;
+package witharraylist;
 
 public class VIPCustomer extends Customer {
 
 	private int agentID;
 	private double saleRatio;
 	
+	public VIPCustomer() {
+		
+		customerGrade = "VIP";
+		bonusRatio = 0.05;
+		saleRatio = 0.1;
 	
+	}
 	public VIPCustomer(int customerID, String customerName,int agentID) {
 		super(customerID,customerName);
 		customerGrade = "VIP";
@@ -24,8 +30,15 @@ public class VIPCustomer extends Customer {
 
 	@Override
 	public int calcPrice(int price) {
-		// TODO Auto-generated method stub
-		return super.calcPrice(price);
+		bonusPoint +=price *bonusPoint;
+		return price - (int)(price*saleRatio);
+	}
+	@Override
+	
+	public String showCustomerInfo() {
+		
+		
+		return super.showCustomerInfo()+"담당 상담원 아이디는 "+agentID+"입니다.";
 	}
 
 
