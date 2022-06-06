@@ -25,4 +25,14 @@
     <fullyQualifiedTypeName name="witharraylist.Customer"/>
     <fullyQualifiedTypeName name="inheritance.Tiger"/>
     <fullyQualifiedTypeName name="inheritance.Eagle"/>
+    <fullyQualifiedTypeName name="abstractex.Computer"/>
+    <fullyQualifiedTypeName name="abstractex.DeskTop"/>
+    <fullyQualifiedTypeName name="abstractex.MyNoteBook"/>
+    <fullyQualifiedTypeName name="abstractex.NoteBook"/>
+    <fullyQualifiedTypeName name="template.ManualCar"/>
+    <fullyQualifiedTypeName name="template.AICar"/>
+    <fullyQualifiedTypeName name="gamelevel.PlayerLevel"/>
+    <fullyQualifiedTypeName name="interfaceex.Calc"/>
+    <fullyQualifiedTypeName name="interfaceex.Calculator1"/>
+    <fullyQualifiedTypeName name="interfaceex.CompleteCalc"/>
 </qualifiedTypeNameHistroy>
