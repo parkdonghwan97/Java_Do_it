@@ -1,0 +1,25 @@
+package bookshelf;
+
+public class BookTest {
+
+	public static void main(String[] args) {
+		
+		
+		Queue shelfQueue = new BookShelf();
+		shelfQueue.enQueue("ลยน้ป๊ธฦ1");
+		shelfQueue.enQueue("ลยน้ป๊ธฦ2");
+		shelfQueue.enQueue("ลยน้ป๊ธฦ3");
+		
+		
+		System.out.println(shelfQueue.deQueue()); //ลยน้ป๊ธฦ1
+		System.out.println(shelfQueue.deQueue()); //ลยน้ป๊ธฦ2
+		System.out.println(shelfQueue.deQueue()); //ลยน้ป๊ธฦ3
+		
+		
+		
+		
+		
+		
+	}
+
+}

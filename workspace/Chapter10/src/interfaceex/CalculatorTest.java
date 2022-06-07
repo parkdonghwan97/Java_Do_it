@@ -1,6 +1,6 @@
 package interfaceex;
 
-public class CalculatorTest {
+public class CalculatorTest { // 인터페이스를 기반으로 구현된 인스턴스 클래스를 가져다 쓰는 '클라이언트 코드'
 
 	public static void main(String[] args) {
 		
@@ -25,6 +25,15 @@ public class CalculatorTest {
 //		calc1.showInfo();
 //		calc2.showInfo();
 		calc3.showInfo();
+		
+		Calc calc4 = new CompleteCalc();
+		calc4.description();
+		
+		// Calc의 정적메서드 total메서드 사용
+		int[] arr = {1,2,3,4,5};
+		int sum = Calc.total(arr);
+		System.out.println(sum);
+		
 	
 	
 	}

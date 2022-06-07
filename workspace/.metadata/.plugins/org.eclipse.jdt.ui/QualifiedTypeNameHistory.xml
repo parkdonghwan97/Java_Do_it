@@ -18,7 +18,6 @@
     <fullyQualifiedTypeName name="inheritance.Animal"/>
     <fullyQualifiedTypeName name="inheritance.Customer"/>
     <fullyQualifiedTypeName name="inheritance.GoldCustomer"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="sun.util.resources.cldr.ext.CurrencyNames_ar_SO"/>
     <fullyQualifiedTypeName name="witharraylist.VIPCustomer"/>
     <fullyQualifiedTypeName name="witharraylist.GoldCustomer"/>
@@ -34,5 +33,18 @@
     <fullyQualifiedTypeName name="gamelevel.PlayerLevel"/>
     <fullyQualifiedTypeName name="interfaceex.Calc"/>
     <fullyQualifiedTypeName name="interfaceex.Calculator1"/>
+    <fullyQualifiedTypeName name="scheduler.Scheduler"/>
+    <fullyQualifiedTypeName name="scheduler.RoundRobin"/>
+    <fullyQualifiedTypeName name="scheduler.Leastjob"/>
+    <fullyQualifiedTypeName name="scheduler.PriorityAllocation"/>
     <fullyQualifiedTypeName name="interfaceex.CompleteCalc"/>
+    <fullyQualifiedTypeName name="interfaceex.Buy"/>
+    <fullyQualifiedTypeName name="interfaceex.Sell"/>
+    <fullyQualifiedTypeName name="interfaceex.Customer"/>
+    <fullyQualifiedTypeName name="interfaceex.Myinterface"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.gc.parallel.PSYoungGen"/>
+    <fullyQualifiedTypeName name="interfaceex.Myclass"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="bookshelf.Shelf"/>
+    <fullyQualifiedTypeName name="bookshelf.Queue"/>
 </qualifiedTypeNameHistroy>
