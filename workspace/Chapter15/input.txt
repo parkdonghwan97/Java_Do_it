@@ -1,0 +1,1 @@
+abcsdfsfd  한글  ( 한글의 경우 FileReader로 읽어야 깨지지 않는다.)
